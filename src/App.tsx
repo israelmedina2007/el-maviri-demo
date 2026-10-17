@@ -1,5 +1,5 @@
 import {useEffect,useMemo,useState} from 'react';
-import {ArrowDown,ArrowRight,ChevronLeft,ChevronRight,Clock3,Instagram,MapPin,Menu,Phone,Search,ShipWheel, X} from 'lucide-react';
+import {ArrowDown,ArrowRight,ChevronLeft,ChevronRight,Clock3,MapPin,Menu,Phone,Search,ShipWheel, X} from 'lucide-react';
 import {categories,dishes} from './data/menu';
 const mapUrl='https://www.google.com/maps/search/?api=1&query=El+Maviri+Colima+3788+La+Paz+BCS';
 const phone='+526121362255';
